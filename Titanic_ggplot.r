@@ -3,8 +3,7 @@ list.files("C:/Data Science Fundation with R/Springboard GitHub")
 titanic <- read.table('titanic_original.csv',header = TRUE, sep = ",")
 summary(titanic)
 
-library(mice)
-library(VIM)
+
 library(dplyr)
 library(ggplot2)
 
