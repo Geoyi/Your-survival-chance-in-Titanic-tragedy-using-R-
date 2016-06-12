@@ -6,6 +6,8 @@ summary(titanic)
 
 
 library(dplyr)
+library(mice)
+library(VIM)
 library(ggplot2)
 
 #Checking the missing value from the data, e.g. which variable missing the most data, using library mice(a package in R)
