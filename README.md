@@ -16,7 +16,7 @@ fare            Passenger Fare;
 cabin           Cabin;
 embarked        Port of Embarkation;
                 (C = Cherbourg; Q = Queenstown; S = Southampton)
-
+![titanic dataset](https://cloud.githubusercontent.com/assets/14057932/15988172/d629be50-300b-11e6-8628-15f5036f8371.png)
 Data in excel. 
 ## runing the code using my R code 'Titanic_ggplot.r' here.
 ## Some results using ggplot2 package from R
