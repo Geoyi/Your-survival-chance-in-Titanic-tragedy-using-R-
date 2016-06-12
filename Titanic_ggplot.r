@@ -1,5 +1,6 @@
-setwd("C:/Data Science Fundation with R/Springboard GitHub")
-list.files("C:/Data Science Fundation with R/Springboard GitHub")
+# Author: Zhuangfang Yi, find me on: http://geoyi.org.
+setwd("you work file path/here you want your R codes to run")
+list.files("you work file path")
 titanic <- read.table('titanic_original.csv',header = TRUE, sep = ",")
 summary(titanic)
 
