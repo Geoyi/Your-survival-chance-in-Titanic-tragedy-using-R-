@@ -47,8 +47,7 @@ head(titanic, 4) #check first 4 row of new data titanic
 #delete last row of my data
 n<-dim(titanic)[1]
 titanic <-titanic[1:(n-1),]
-# titanic is avaliable in your workspace
-# Check out the structure of titanic
+#recheck the data frame structure of the whole dataset.
 str(titanic)
 
 
